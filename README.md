@@ -13,3 +13,6 @@ prefetch-playlist=yes
 in ~/.config/mpv/mpv.conf
 
 not everything implemented yet like audiobooks and whatever
+
+All credit goes to
+https://github.com/jellyfin/jellyfin-apiclient-python
